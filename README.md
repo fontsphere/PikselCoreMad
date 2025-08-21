@@ -4,7 +4,7 @@
 It includes six weights (200–700), uppercase and lowercase letters, and modular construction.  
 
 ## Files
-- All font files are in `/fonts/` (TTF + WOFF2)
+- All font files are in `/fonts/` (TTF only)
 
 ## License
 This font is licensed under the SIL Open Font License (OFL 1.1). See `OFL.txt` for details.
