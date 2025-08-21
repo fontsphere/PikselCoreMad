@@ -1,0 +1,8 @@
+FONTLOG for Piksel Core Mad
+---------------------------
+This file provides detailed information on the Piksel Core Mad font family.
+
+ChangeLog:
+Version 001.16.07.25 (2025-08-21) — First public release
+Designer: Fontsphere (https://fontsphere.com)
+License: SIL Open Font License 1.1
